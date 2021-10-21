@@ -1,0 +1,6 @@
+[submodule "klipper"]
+	path = klipper
+	url = git@github.com:marcboivin/klipper.git
+[submodule "esp-idf"]
+	path = esp-idf
+	url = git@github.com:marcboivin/esp-idf.git
