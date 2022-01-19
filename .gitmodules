@@ -4,3 +4,6 @@
 [submodule "esp-idf"]
 	path = esp-idf
 	url = git@github.com:marcboivin/esp-idf.git
+[submodule "TurboCAN"]
+	path = TurboCAN
+	url = git@github.com:marcboivin/TurboCAN.git
